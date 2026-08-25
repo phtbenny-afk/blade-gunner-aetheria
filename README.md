@@ -1,2 +1,9 @@
-# blade-gunner-aetheria
-Blade Gunner / Aetheria mobile fantasy RPG prototype - playable HTML5 build
+# Blade Gunner — Aetheria
+
+Mobile fantasy RPG prototype (HTML5 single-file).
+
+**Play live:** https://phtbenny-afk.github.io/blade-gunner-aetheria/
+
+Open that URL on your phone and bookmark it.
+
+Latest version: v8 (from Drive automation).
