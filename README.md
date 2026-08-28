@@ -1,20 +1,24 @@
 # Blade Gunner — Aetheria
 
-Mobile fantasy RPG. **v32 is the first real world build.**
+Mobile fantasy RPG. **v33 is the current world build.**
 
-**Play now:** https://phtbenny-afk.github.io/blade-gunner-aetheria/
+**Play on iPhone:** download `blade-gunner-v33-world.html` from Drive and open in Safari.
 
-**Current version: v32 WORLD**
+Drive folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+Playable file: https://drive.google.com/file/d/1BxwEtR0aroA1lXYl_iNmYSA110NA1HM9/view
 
-Open the file on iPhone Safari, or use GitHub Pages after the HTML is updated.
-Drive copy: `blade-gunner-v32-world.html` in the Blade Gunner folder.
+Confirm the chip says **BUILD v33 · WORLD**.
 
-## What you can do in v32
-- Walk a 96x96 map with five biomes (Glade, Nightwood, Tundra, Dunes, Wastes)
+## What v33 adds
+- Mini-map (biomes, hostiles, player, landmark pings)
+- Attune the Five: stand on shrine / obelisk / arch / spire / rift
+
+## What you can already do
+- Walk a 96x96 map with five biomes
 - Left joystick or tap-to-move
-- Roaming enemy packs, aggro, chase, auto-attack
+- Roaming packs, aggro, chase, auto-attack
 - Slash / Pistol / Wings / Overdrive
-- XP, gold, levels, respawn at the shrine
+- XP, gold, levels, shrine respawn
 
 ## What v31 was
-A portrait combat screen. The hourly automation was locked to "visual identity only" and spent days swapping JPEGs. That loop is stopped.
+A portrait combat screen. Do not open it if you want the world.
