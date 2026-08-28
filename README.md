@@ -1,34 +1,13 @@
 # Blade Gunner — Aetheria
 
-Mobile fantasy RPG. **v35 is the current world build.**
+Phone-playable HTML5 overworld. Not a portrait-arena tapper.
 
-**Play on iPhone:** download `blade-gunner-v35-world.html` from Drive and open in Safari.
+**Playable file lives on Google Drive** (too large for this repo because of locked embedded stills):
+https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Drive folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-Playable file: https://drive.google.com/file/d/1y-X2cehdxMNAv6QuqbjFvGVncxgKbbyq/view
+Open **blade-gunner-v38-world.html** → Files app → Safari. Chip: **BUILD v38 · WORLD**.
 
-Confirm the chip says **BUILD v35 · WORLD**.
+## v38
+Field companion commands: Follow, Stay, Attack.
 
-## What v35 adds
-- Persist save on this phone (localStorage)
-- Position, level, gold, HP, attuned landmarks, companion HP
-- Boot CONTINUE / NEW GAME
-
-## What v34 already had
-- Field companion Liora follows the player
-- Frost-bolt auto-attacks + orbiting falcon dives
-- Companion can shatter and reform after 8s
-
-## What v33 already had
-- Mini-map (biomes, hostiles, player, landmark pings)
-- Attune the Five: stand on shrine / obelisk / arch / spire / rift
-
-## What you can already do
-- Walk a 96x96 map with five biomes
-- Left joystick or tap-to-move
-- Roaming packs, aggro, chase, auto-attack
-- Slash / Pistol / Wings / Overdrive
-- XP, gold, levels, shrine respawn
-
-## What v31 was
-A portrait combat screen. Do not open it if you want the world.
+World systems already in: camera-follow map, five biomes, roads/fords/cliffs, roaming packs, slash/pistol/wings/overdrive, Liora + frost falcon, landmark attunement, localStorage save, walk bob + attack lunge.
