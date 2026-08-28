@@ -1,9 +1,9 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v34 WORLD
-**Playable:** blade-gunner-v34-world.html on Drive
-**Chip:** BUILD v34 · WORLD
+**Current Version:** v35 WORLD
+**Playable:** blade-gunner-v35-world.html on Drive
+**Chip:** BUILD v35 · WORLD
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**File:** https://drive.google.com/file/d/1CuU_JB8ogeH0udvFE7xJ0fkNke8MtmOo/view
+**File:** https://drive.google.com/file/d/1y-X2cehdxMNAv6QuqbjFvGVncxgKbbyq/view
 
-This pass added a field companion (Liora + frost falcon) that follows and auto-attacks. Keep the overworld. Do not revert to portrait-arena combat.
+This pass added localStorage persist (position, level, gold, HP, attuned landmarks, companion). Keep the overworld. Do not revert to portrait-arena combat.

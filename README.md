@@ -1,15 +1,20 @@
 # Blade Gunner — Aetheria
 
-Mobile fantasy RPG. **v34 is the current world build.**
+Mobile fantasy RPG. **v35 is the current world build.**
 
-**Play on iPhone:** download `blade-gunner-v34-world.html` from Drive and open in Safari.
+**Play on iPhone:** download `blade-gunner-v35-world.html` from Drive and open in Safari.
 
 Drive folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-Playable file: https://drive.google.com/file/d/1CuU_JB8ogeH0udvFE7xJ0fkNke8MtmOo/view
+Playable file: https://drive.google.com/file/d/1y-X2cehdxMNAv6QuqbjFvGVncxgKbbyq/view
 
-Confirm the chip says **BUILD v34 · WORLD**.
+Confirm the chip says **BUILD v35 · WORLD**.
 
-## What v34 adds
+## What v35 adds
+- Persist save on this phone (localStorage)
+- Position, level, gold, HP, attuned landmarks, companion HP
+- Boot CONTINUE / NEW GAME
+
+## What v34 already had
 - Field companion Liora follows the player
 - Frost-bolt auto-attacks + orbiting falcon dives
 - Companion can shatter and reform after 8s
