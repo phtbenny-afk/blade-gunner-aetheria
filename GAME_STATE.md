@@ -1,8 +1,11 @@
-# Blade Gunner / Aetheria
+# Blade Gunner / Aetheria — Persistent Game State
 
-Current playable: **blade-gunner-v45-world.html** in Drive folder 1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-Chip: BUILD v45 · WORLD
+**Current Version:** v47 WORLD (Mira wanted board)
+**Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+**Playable file:** blade-gunner-v47-world.html (BUILD v47 · WORLD)
 
-This repo is a pointer. The self-contained HTML (locked art + world) lives on Drive because of embedded stills.
+Open from Files → Safari. Drive preview looks blank.
 
-v45 adds named road events with pay / fight / detour and the Walk the Bargain side quest. Do not revert to portrait-arena builds (v31 and earlier).
+v47 adds Mira's WANTED board: POST a named pack, hunt the gold ring on the mini-map, cash the contract. Side quest Clear the Board (3 contracts).
+
+Do not open v31 portrait-arena builds if you want the world.
