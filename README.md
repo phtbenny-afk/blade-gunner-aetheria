@@ -1,11 +1,9 @@
-# Blade Gunner — Aetheria
+# Blade Gunner / Aetheria
 
-Phone-first HTML5 overworld. The playable build is a single self-contained HTML file on Google Drive (locked hero stills make it too large for this repo).
+Phone-runnable HTML5 overworld. Playable build lives on Google Drive (too large for this repo because of embedded hero art).
 
-**Current:** BUILD v42 · WORLD — `blade-gunner-v42-world.html`
+Folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Drive folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+Current file: **blade-gunner-v43-world.html** — chip must say **BUILD v43 · WORLD**.
 
-Open in Safari on iPhone (Drive preview looks blank). Continue uses localStorage.
-
-v42 adds attuned-landmark recall (RECALL button + mini-map tap). v41 saves still load.
+Download, open in Files, then Safari. Drive preview looks blank.
