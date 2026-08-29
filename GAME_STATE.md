@@ -1,11 +1,11 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v47 WORLD (Mira wanted board)
+**Current Version:** v48 WORLD (Call the Sky — falcon perch / retrieve)
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v47-world.html (BUILD v47 · WORLD)
+**Playable file:** blade-gunner-v48-world.html (BUILD v48 · WORLD)
 
 Open from Files → Safari. Drive preview looks blank.
 
-v47 adds Mira's WANTED board: POST a named pack, hunt the gold ring on the mini-map, cash the contract. Side quest Clear the Board (3 contracts).
+v48 adds FALC: perch the falcon on a mark or send it to fetch a drop. Side quest Call the Sky (4 fetches).
 
 Do not open v31 portrait-arena builds if you want the world.
