@@ -4,6 +4,6 @@ Phone-runnable HTML5 overworld. Playable build lives on Google Drive (too large 
 
 Folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Current file: **blade-gunner-v43-world.html** — chip must say **BUILD v43 · WORLD**.
+Current file: **blade-gunner-v45-world.html** — chip must say **BUILD v45 · WORLD**.
 
 Download, open in Files, then Safari. Drive preview looks blank.
