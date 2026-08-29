@@ -1,13 +1,11 @@
 # Blade Gunner — Aetheria
 
-Phone-playable HTML5 overworld. Not a portrait-arena tapper.
+Phone-first HTML5 overworld. The playable build is a single self-contained HTML file on Google Drive (locked hero stills make it too large for this repo).
 
-**Playable file lives on Google Drive** (too large for this repo because of locked embedded stills):
-https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+**Current:** BUILD v41 · WORLD — `blade-gunner-v41-world.html`
 
-Open **blade-gunner-v38-world.html** → Files app → Safari. Chip: **BUILD v38 · WORLD**.
+Drive folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-## v38
-Field companion commands: Follow, Stay, Attack.
+Open in Safari on iPhone (Drive preview looks blank). Continue uses localStorage.
 
-World systems already in: camera-follow map, five biomes, roads/fords/cliffs, roaming packs, slash/pistol/wings/overdrive, Liora + frost falcon, landmark attunement, localStorage save, walk bob + attack lunge.
+v41 adds interactable docks and broken bridges plus the Raise the Fords quest.
