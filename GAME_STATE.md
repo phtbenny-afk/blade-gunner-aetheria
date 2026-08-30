@@ -1,11 +1,11 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v56 WORLD (Broker the Road — wagons buy bag goods at dest-dock prices)
+**Current Version:** v57 WORLD (Scout the Ways — falcon circuits a biome and paints caches on the mini-map)
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v56-world.html (BUILD v56 · WORLD)
+**Playable file:** blade-gunner-v57-world.html (BUILD v57 · WORLD)
 
 Open from Files → Safari. Drive preview looks blank.
 
-v56 adds Broker the Road: tap CART on an amber wagon and SELL bag goods at that dest dock's purse prices. Sell to three dest wagons to seal the quest. v55 saves still load.
+v57 adds Scout the Ways: tap FALC with no loot to perch, tap again to send the bird over this biome. Sealed caches stay painted on the mini-map. Circuit three biomes to seal the quest. v56 saves still load.
 
 Do not open v31 portrait-arena builds if you want the world.
