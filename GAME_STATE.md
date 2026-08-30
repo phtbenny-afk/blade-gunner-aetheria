@@ -1,11 +1,11 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v55 WORLD (Station the Hire — tip the blade onto a landmark)
+**Current Version:** v56 WORLD (Broker the Road — wagons buy bag goods at dest-dock prices)
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v55-world.html (BUILD v55 · WORLD)
+**Playable file:** blade-gunner-v56-world.html (BUILD v56 · WORLD)
 
 Open from Files → Safari. Drive preview looks blank.
 
-v55 adds Station the Hire: tap GUARD on the teal blade, HOLD HERE / HOLD DEST for 25g to plant them on a landmark, or RIDE ROAD to send them back. Hold three marks to seal the quest. v54 saves still load.
+v56 adds Broker the Road: tap CART on an amber wagon and SELL bag goods at that dest dock's purse prices. Sell to three dest wagons to seal the quest. v55 saves still load.
 
 Do not open v31 portrait-arena builds if you want the world.

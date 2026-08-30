@@ -1,11 +1,9 @@
 # Blade Gunner / Aetheria
 
-Phone-runnable HTML5 overworld. Playable build lives on Google Drive (too large for this repo because of embedded hero art).
+Phone-first HTML5 overworld. Source of truth lives in Drive, not this stub repo.
 
-Folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+**Play:** download `blade-gunner-v56-world.html` from the Drive folder and open it in Safari.
 
-Current file: **blade-gunner-v53-world.html** — chip must say **BUILD v53 · WORLD**.
+Chip must read **BUILD v56 · WORLD**.
 
-Download, open in Files, then Safari. Drive preview looks blank.
-
-v53: Catch the Cart. PAY a warp and Mira's wagon rolls that dest road. Stand on it and CART.
+Current feature: Broker the Road — paid-road wagons buy your bag at dest-dock sell prices.
