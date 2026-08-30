@@ -1,11 +1,11 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v57 WORLD (Scout the Ways — falcon circuits a biome and paints caches on the mini-map)
+**Current Version:** v58 WORLD (Stoop the Mark — tap a painted cache on the mini-map; falcon opens it from the air)
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v57-world.html (BUILD v57 · WORLD)
+**Playable file:** blade-gunner-v58-world.html (BUILD v58 · WORLD)
 
 Open from Files → Safari. Drive preview looks blank.
 
-v57 adds Scout the Ways: tap FALC with no loot to perch, tap again to send the bird over this biome. Sealed caches stay painted on the mini-map. Circuit three biomes to seal the quest. v56 saves still load.
+v58 adds Stoop the Mark: scout a biome, then tap a gold cache diamond on the mini-map. The falcon dives and opens the chest from the air. Stoop two caches to seal the quest. v57 saves still load.
 
 Do not open v31 portrait-arena builds if you want the world.

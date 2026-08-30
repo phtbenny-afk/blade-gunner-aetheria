@@ -1,9 +1,8 @@
-# Blade Gunner / Aetheria
+# Blade Gunner: Aetheria
 
-Phone-first HTML5 overworld. Source of truth lives in Drive, not this stub repo.
+Phone-playable HTML5 overworld. Current build is **v58 WORLD** — Stoop the Mark.
 
-**Play:** download `blade-gunner-v56-world.html` from the Drive folder and open it in Safari.
+Playable file lives in Drive (too large for this repo):
+https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Chip must read **BUILD v56 · WORLD**.
-
-Current feature: Broker the Road — paid-road wagons buy your bag at dest-dock sell prices.
+Download `blade-gunner-v58-world.html` → Files → Safari. Chip must read **BUILD v58 · WORLD**.
