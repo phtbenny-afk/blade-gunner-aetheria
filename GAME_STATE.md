@@ -1,11 +1,11 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v58 WORLD (Stoop the Mark — tap a painted cache on the mini-map; falcon opens it from the air)
+**Current Version:** v60 WORLD (Pin the Mark — hold the mini-map to drop a cyan pin; walk the banner and PLANT)
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v58-world.html (BUILD v58 · WORLD)
+**Playable file:** blade-gunner-v60-world.html (BUILD v60 · WORLD)
 
 Open from Files → Safari. Drive preview looks blank.
 
-v58 adds Stoop the Mark: scout a biome, then tap a gold cache diamond on the mini-map. The falcon dives and opens the chest from the air. Stoop two caches to seal the quest. v57 saves still load.
+v60 adds Pin the Mark: hold the mini-map to drop a cyan field pin. Walk onto the banner and PLANT. Plant two biomes to seal the quest. Tap the pin to perch or stoop the falcon. v59 saves still load.
 
 Do not open v31 portrait-arena builds if you want the world.
