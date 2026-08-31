@@ -1,8 +1,8 @@
 # Blade Gunner: Aetheria
 
-Phone-playable HTML5 overworld. Current build is **v61 WORLD** — Fetch the Pile.
+Phone-first HTML5 overworld. Current build is **v62 WORLD**.
 
-Playable file lives in Drive (too large for this repo):
-https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+Playable file lives in Drive (too large for this repo): `blade-gunner-v62-world.html`
+Folder: https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Download `blade-gunner-v61-world.html` → Files → Safari. Chip must read **BUILD v61 · WORLD**.
+Open from Files → Safari. Confirm the chip says **BUILD v62 · WORLD**.
