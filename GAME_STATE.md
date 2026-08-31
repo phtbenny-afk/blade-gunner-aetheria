@@ -1,11 +1,11 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v60 WORLD (Pin the Mark — hold the mini-map to drop a cyan pin; walk the banner and PLANT)
+**Current Version:** v61 WORLD (Fetch the Pile — claimed coffers leave a lime bag; tap it on the mini-map to send the falcon)
 **Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v60-world.html (BUILD v60 · WORLD)
+**Playable file:** blade-gunner-v61-world.html (BUILD v61 · WORLD)
 
 Open from Files → Safari. Drive preview looks blank.
 
-v60 adds Pin the Mark: hold the mini-map to drop a cyan field pin. Walk onto the banner and PLANT. Plant two biomes to seal the quest. Tap the pin to perch or stoop the falcon. v59 saves still load.
+v61 adds Fetch the Pile: CLAIM a paid-road coffer and walk off. The loot stays as a lime pile. Tap the diamond on the mini-map (or FETCH) to send the falcon. Two air-fetches seal the quest. v60 saves still load.
 
 Do not open v31 portrait-arena builds if you want the world.
