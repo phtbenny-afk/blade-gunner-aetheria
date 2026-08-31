@@ -1,7 +1,7 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v64 WORLD (Swap the Weak)
-**Playable file:** blade-gunner-v64-world.html in Drive folder 1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
+**Current Version:** v65 WORLD (Shift the Bind)
+**Playable file:** blade-gunner-v65-world.html in Drive folder 1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Fifth cache in the Rift Wastes. Rift Sigil replaces the weakest equipped relic slot.
+After the Rift Sigil is bound, stand on the Reliquary and pay gold to move it to the next slot. Dropped relics return.
 Do not revert to portrait-arena combat.
