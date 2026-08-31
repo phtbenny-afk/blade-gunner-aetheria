@@ -1,11 +1,7 @@
 # Blade Gunner / Aetheria — Persistent Game State
 
-**Current Version:** v63 WORLD (Skip the Rotation — pay Mira a gold tax to turn a wrong-biome deep hunt)
-**Drive:** https://drive.google.com/drive/folders/1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
-**Playable file:** blade-gunner-v63-world.html (BUILD v63 · WORLD)
+**Current Version:** v64 WORLD (Swap the Weak)
+**Playable file:** blade-gunner-v64-world.html in Drive folder 1aZTlCBKNGDifsYfIkwl_6cjtLrejRzNm
 
-Open from Files → Safari. Drive preview looks blank.
-
-v63 adds Skip the Rotation: after Clear the Board, TRADE at a dock and SKIP the live deep hunt for 25g (+10g each later skip). The pack despawns and the pin turns. Two skips seal the quest. v62 saves still load.
-
-Do not open v31 portrait-arena builds if you want the world.
+Fifth cache in the Rift Wastes. Rift Sigil replaces the weakest equipped relic slot.
+Do not revert to portrait-arena combat.
